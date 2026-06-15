@@ -1,8 +1,5 @@
 # FUTURE_UX_03
 UI/UXI Internship Task3
-# FUTURE_UIUX_04
-
-## UI/UX Internship Task 4
 
 # Close – Sales CRM SaaS UI Design
 
